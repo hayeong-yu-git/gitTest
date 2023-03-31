@@ -3,8 +3,8 @@ package com.yhy.test;
 public class TestClass {
 	
 	public static void main(String[] args) {
-		System.out.println("나는 마스터다");
-		//4줄 삭제
+		//다양한 위치에 깃임포트
+		System.out.println("다양한 위치에 깃임포트");
 		
 	}
 
